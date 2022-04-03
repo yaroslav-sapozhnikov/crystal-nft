@@ -1,0 +1,13 @@
+.Presentation {
+    width: 50%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-image: url('resources/img.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    align-items: center;
+
+}

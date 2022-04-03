@@ -1,0 +1,23 @@
+.RoadMap {
+    display: flex;
+    flex-direction: column;
+}
+
+.Header {
+    color: rgb(1,87,97);
+    font-size: 400%;
+    font-weight: inherit;
+}
+
+.Line {
+    width: 7px;
+    height: auto;
+    margin-bottom: 50px;
+    background-color: rgb(255,188,153);
+}
+
+.Content {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

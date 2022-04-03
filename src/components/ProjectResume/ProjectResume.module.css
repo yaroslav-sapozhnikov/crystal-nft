@@ -1,0 +1,55 @@
+.SocialMediaIconsBlock {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.SocialMediaIcon {
+    margin-left: 9px;
+    margin-right: 9px;
+    margin-top: 20px;
+}
+
+.ProjectName {
+    color: rgb(247,220,79);
+    text-align: center;
+    font-size: 250%;
+}
+
+.ProjectResume {
+    width: 50%;
+    height: 800px;
+    background: rgb(1,87,97);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.ProjectDescription {
+    color: rgb(0,44,49);
+    text-align: center;
+    font-size: 400%;
+    font-weight: normal;
+    width: 450px;
+    margin-top: 0px;
+}
+
+.PurchaseButton {
+    color: black;
+    font-size: 120%;
+    background-color: rgb(247,220,79);
+    border: none;
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+}
+
+.PurchaseButton:hover {
+    color: white;
+    font-size: 120%;
+    background-color: rgb(1,87,97);
+    border: 1px solid rgb(247,220,79);
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+}

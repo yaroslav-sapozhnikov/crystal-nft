@@ -1,0 +1,24 @@
+.Block {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.ImageNFT{
+    /*transform:translate(-50%,-50%);*/
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    margin: 5%;
+}
+
+.TextBlock {
+    font-size: 180%;
+    font-weight: lighter;
+    font-style: oblique;
+    width: 400px;
+    height: 400px;
+    margin: 5%;
+}

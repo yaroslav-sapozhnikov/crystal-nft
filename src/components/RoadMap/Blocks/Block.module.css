@@ -1,0 +1,27 @@
+.Block {
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: start;
+    margin-bottom: 50px;
+}
+
+.Header {
+    color: rgb(1,87,97);
+    font-size: 400%;
+    font-weight: inherit;
+}
+
+.Date {
+    width: 230px;
+    height: 50px;
+    font-size: 200%;
+    text-align: center;
+    vertical-align: top;
+}
+
+.Action {
+    width: 500px;
+    font-size: 150%;
+    text-align: start;
+}

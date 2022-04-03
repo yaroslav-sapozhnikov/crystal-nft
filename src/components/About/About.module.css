@@ -1,0 +1,12 @@
+.Header {
+    color: rgb(1,87,97);
+    font-size: 400%;
+    font-weight: inherit;
+}
+
+.BlockContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
